@@ -1,0 +1,10 @@
+{
+    "python.jediEnabled": false,
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/Lib/site-packages/"
+    ],
+    "python.autoComplete.preloadModules": [
+        "${workspaceFolder}/Lib/site-packages/"
+    ],
+    "python.pythonPath": "${workspaceFolder}/Scripts/python.exe"
+}
